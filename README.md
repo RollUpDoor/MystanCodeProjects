@@ -15,3 +15,5 @@ This repository holds my programming projects done during the period of stanCode
   * animation & game designing
 * [Name Popularity Searching System](https://github.com/RollUpDoor/MystanCodeProjects/blob/main/SC101_Assignment/SC101Assignment4/babygraphics.py)
   * data structure
+* [Webcrawler](https://github.com/RollUpDoor/MystanCodeProjects/blob/main/SC101_Assignment/SC101Assignment4/webcrawler.py)
+  * data structure
